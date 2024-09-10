@@ -4,7 +4,7 @@
   top: 50px; /* Moves the navbar down */
   left: 30%;
   transform: translateX(-50%);
-  background-color: #FFE5B4;
+  background-color: #3ee5ffa0;
   width: 80%;
   border-radius: 20px;
   box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
@@ -42,7 +42,7 @@
 }
 
 .custom-navbar.expanded {
-  background-color: #FFE5B4;
+  background-color: #3ee5ffa0;
   box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.2);
 }
 
@@ -93,7 +93,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url('https://img.freepik.com/free-vector/translation-service-composition-with-collage-flat-thought-bubbles-with-text-country-balls-human-characters-vector-illustration_1284-82165.jpg?t=st=1725803317~exp=1725806917~hmac=677950c2b0f073bf767d23c742aa9111c1418b11d2f11cf82b9f841810818002&w=1800'); /* Replace with your image */
+  background-image: url('https://www.babel-translations.com/images/home-cat/cat2.jpg'); /* Replace with your image */
   background-size: cover; /* or use 'contain' for a different effect */
   background-position: center;
   background-attachment: fixed;
@@ -139,14 +139,14 @@
   font-size: 1.1rem; /* Smaller font size */
   border: none;
   border-radius: 50px;
-  background-color: #fea9008c;
+  background-color: #3ee5ffa0;
   color: white;
   cursor: pointer;
   transition: background-color 0.3s ease, transform 0.3s ease;
 }
 
 .hero-cta:hover {
-  background-color: #fea9008c;
+  background-color: #3ee5ffa0;
   transform: scale(1.05);
 }
 
@@ -223,7 +223,7 @@
 .cta-section {
   text-align: center;
   padding: 3rem 1rem;
-  background-color: #fea9008c;
+  background-color: #3ee5ffa0;
   color: white;
   border-radius: 10px;
 }
@@ -244,7 +244,7 @@
   border: none;
   border-radius: 50px;
   background-color: #fff;
-  color: #feaa00;
+  color: #3ee5ffa0;
   cursor: pointer;
   transition: background-color 0.3s ease, transform 0.3s ease;
 }
@@ -318,14 +318,14 @@
   font-size: 1.1rem;
   border: none;
   border-radius: 50px;
-  background-color: #fea9008c;
+  background-color: #3ee5ffa0;
   color: white;
   cursor: pointer;
   transition: background-color 0.3s ease, transform 0.3s ease;
 }
 
 .aside-cta:hover {
-  background-color: #fea9008c;
+  background-color: #3ee5ffa0;
   transform: scale(1.05);
 }
 
